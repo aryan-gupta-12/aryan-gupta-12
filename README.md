@@ -11,8 +11,7 @@ Hi there, I’m **Aryan Gupta** 👋
 ---
 
 ## 🌍 Portfolio
-Coming soon — stay tuned for updates!  
-
+(https://aryan-gupta-12.github.io/portfolio/)
 ---
 
 ## 🌐 Socials
